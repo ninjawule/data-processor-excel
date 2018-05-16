@@ -16,6 +16,8 @@ Automatically processing data coming from biology test plates (with 96 wells for
 
 ## Licence
 
+GPLv3:
+
     Copyright 2018 Julien Wan
 
     This program is free software: you can redistribute it and/or modify
