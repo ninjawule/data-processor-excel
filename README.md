@@ -12,5 +12,5 @@ Automatically processing data coming from biology test plates with 96 wells
 
 * If the computation of the average, max, min, or standard dev of the white fails:
   - click the "calc." button 
-  - or, try entering the cell, and enter push again to refresh the formula
+  - or, try entering the cell, and push ENTER again to refresh the formula
 
