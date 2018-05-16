@@ -1,5 +1,5 @@
-# data-processor-excel-96
-Automatically processing data coming from biology test plates with 96 wells
+# data-processor-excel
+Automatically processing data coming from biology test plates (with 96 wells for now).
 
 ## How to use
 
