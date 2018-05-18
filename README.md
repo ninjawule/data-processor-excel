@@ -16,6 +16,8 @@ Automatically processing data coming from biology test plates (with 96 wells for
 
 ## Licence
 
+**This software bit is meant to be used FOR FREE by researchers, and CAN NOT BE SOLD directly or as part of other deliverables by anyone.**
+
 GPLv3:
 
     Copyright 2018 Julien Wan
@@ -32,3 +34,4 @@ GPLv3:
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
