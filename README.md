@@ -18,6 +18,8 @@ Automatically processing data coming from biology test plates (with 96 wells for
 
 **This software bit is meant to be used FOR FREE by researchers, and CAN NOT BE SOLD directly or as part of other deliverables by anyone.**
 
+The results produced with this tool belong to its users, i.e. the people entering the data, configuring the experiment, and performing the computations.
+
 GPLv3:
 
     Copyright 2018 Julien Wan
